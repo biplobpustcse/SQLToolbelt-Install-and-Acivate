@@ -1,0 +1,7 @@
+127.0.0.1 licensing.red-gate.com
+127.0.0.1 notifications.red-gate.com
+127.0.0.1 update.red-gate.com
+127.0.0.1 productlogin.red-gate.com
+127.0.0.1 productloginauthentication.red-gate.com
+127.0.0.1 authentication.red-gate.com
+127.0.0.1 permits.red-gate.com
