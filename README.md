@@ -17,8 +17,8 @@ from -------------- etc.txt file
 #### 4.Keygen
  ![image](https://github.com/biplobpustcse/SQLToolbelt-Install-and-Acivate/assets/59637279/805d7068-4eb8-4454-a1b7-f506a8756d3b)
 
-###### a.	Copy serial no and past to SQL Prompt ->Help->About SQL Prompt->
-###### b.	Copy text from SQL Prompt ->Help->About SQL Prompt-> and past to Keygen Activation Request
-###### c.	Generate Activation Response and copy this and past to SQL Prompt ->Help->About SQL Prompt->
+###### a.	Copy serial no from Keygen activator and then past to SQL Prompt Path:->MS Server Management Stdio =>SQL Prompt=>Help->Manage Licenses-> Click Activate button
+###### b.	After then SQL Prompt will generate a text,Copy the text from SQL Prompt ->Help->Manage Licenses-> and past to Keygen Activation Request
+###### c.	Generate Activation Response and copy this and past to SQL Prompt ->Help->Manage Licenses->
 #### 5.Enable internet
 #### 6.END
